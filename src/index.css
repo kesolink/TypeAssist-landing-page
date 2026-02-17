@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-dark: #0a0a0f;
+  --color-dark-light: #13131a;
+  --color-accent: #00ff88;
+  --color-accent-light: #33ff9f;
+
+  /* Border Radius */
+  --radius-card: 12px;
+
+  /* Fonts */
+  --font-family-heading: ui-sans-serif, system-ui, sans-serif;
+}
