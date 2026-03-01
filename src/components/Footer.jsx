@@ -15,7 +15,7 @@ export default function Footer() {
             </div>
             <p className="text-sm text-gray-500">Version 2.1.0</p>
             <p className="text-sm text-gray-500">
-              © 2025 TypeAssist. All rights reserved.
+              © 2026 TypeAssist. All rights reserved.
             </p>
           </div>
 
@@ -67,7 +67,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="text-sm text-gray-500 hover:text-accent transition-colors cursor-pointer"
           >
-            Powered by Readdy
+            Powered by Keso-Tech
           </a>
         </div>
       </div>
